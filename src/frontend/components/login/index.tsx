@@ -56,7 +56,7 @@ export const Login: React.FC<LoginProps> = (props) => {
       <Wrapper flex variant="grey">
         <Box bg="white" height="440px" flex boxShadow="login" width={[1, 2 / 3, 'auto']}>
           <Box
-            bg="primary100"
+            bg="../../../../assets/img/woman.jpg"
             color="white"
             p="x3"
             width="380px"
